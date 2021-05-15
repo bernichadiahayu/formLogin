@@ -1,0 +1,15 @@
+body{
+	background: #d291bc;
+}
+
+.container{
+	width: 40%;
+	margin-top: 8%;
+	box-shadow: 0 5px 30px #ffdfd3;
+	padding: 50px;
+	background-color: #ffdfd3;
+}
+
+button {
+	width: 49%;
+}
